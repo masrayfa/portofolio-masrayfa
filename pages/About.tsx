@@ -10,12 +10,13 @@ const About = () => {
           <img
             src="../assets/foto-about.jpg"
             alt="profile"
-            className="w-[80vw] rounded-xl grayscale mx-auto mb-11 sm:w-[60vw] md:w-[50vw] lg:w-[30vw]"
+            className="w-[80vw] rounded-xl grayscale mx-auto mb-11 sm:w-[60vw] h-fit md:w-[50vw] lg:w-[30vw]"
           />
           <div className="space-y-5 text-white">
             <h1 className=" text-4xl font-serif">
-              Hello There! My name is Mas Rayfa. I'm a college student and
-              mostly messing around with frontend dev.
+              Hello There! My name is{" "}
+              <span className="underline ">Mas Rayfa</span>. I'm a college
+              student and mostly messing around with frontend dev.
             </h1>
             <div className="space-y-5 text-white/70">
               <h2 className=" text-lg">
