@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Mas Rayfa</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
