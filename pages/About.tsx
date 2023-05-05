@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex">
         <div className="mx-auto mt-32 flex flex-col lg:flex-row space-x-16 w-[70vw]">
           <img
-            src="../assets/foto-about.jpg"
+            src="https://storage.googleapis.com/profile-dicoding/rayfa.jpg"
             alt="profile"
             className="w-[80vw] rounded-xl grayscale mx-auto mb-11 sm:w-[60vw] h-fit md:w-[50vw] lg:w-[30vw]"
           />
